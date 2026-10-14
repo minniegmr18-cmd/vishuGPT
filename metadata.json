@@ -1,0 +1,8 @@
+{
+  "name": "Remix Playlist Downloader",
+  "description": "A simple tool to easily download and manage media from GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
